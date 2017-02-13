@@ -8,9 +8,9 @@ Fairly self explanatory. BC has public webcams throughout its campus. This is a 
 * Update the paths to chromedriver in the scripts you plan to use
 * Run the file for whichever cam you want data from. For example: 
 
-'''
+```
 python gasson.py
-'''
+```
 
 ---
 
